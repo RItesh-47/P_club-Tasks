@@ -1,0 +1,8 @@
+before executing run.sh file:
+
+1.make sure "train" folder has the sample training images and "test" folder has test images, respective paths should be in run. under --train and --test respectively
+
+2."trainlabels.csv" should be present in same directory as train.py
+
+3.pa1 should be  a directory present in same directory as train.py and exp1 should be a directory in pa1. write permission should be given to the directories 
+
